@@ -2,6 +2,10 @@ body {
 	background-color: white;
 }
 
-h1, h2, p, li {
+h1, h2 {
 	color: blue;
+}
+
+p, li {
+	color: black;
 }
