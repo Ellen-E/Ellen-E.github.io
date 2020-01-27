@@ -1,0 +1,23 @@
+body {
+	background-color: white ;
+}
+
+
+h1, h2 {
+	color: black;
+}
+
+p, li {
+	color: black;
+	width: 600px;	
+}
+
+#slogan {
+	font-style: italic;
+	font-weight: bold;
+	font-size: 14pt;
+}
+
+img {
+	width: 600px;
+}
