@@ -1,0 +1,39 @@
+body {
+	background-color: white ;
+}
+
+
+h1 {
+	color: black;
+	font-family: 'DM Serif Display', serif;
+	font-weight: bold;
+	font-size: 36pt;
+	line-height: 10pt;
+}
+
+h2 {
+	color: black;
+	font-family: 'DM Serif Display', serif;
+	font-weight: bold;
+	font-size: 16pt;
+}
+
+p, li {
+	color: black;
+	width: 600px;
+	font-family: 'Martel Sans', sans-serif;
+	font-size: 10pt;	
+	line-height: 15pt;
+}
+
+#slogan {
+	color: gray;
+	font-family: 'Martel Sans', sans-serif;
+	font-size: 14pt;
+	margin-left: 300px;
+}
+
+img {
+	width: 600px;
+	margin-left: 300px;
+}
