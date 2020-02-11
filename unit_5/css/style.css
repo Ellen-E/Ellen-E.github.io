@@ -1,0 +1,57 @@
+nav {
+	background-color: #E8C66A
+	color: black;
+	font-family: 'Martel Sans', sans-serif;
+	font-weight: bold;
+	font-size: 12pt;
+	text-align: right;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+h1 {
+	color: black;
+	font-family: 'DM Serif Display', serif;
+	font-weight: bold;
+	font-size: 48pt;
+	line-height: 2pt;
+}
+
+h2 {
+	color: black;
+	font-family: 'Martel Sans', sans-serif;
+	font-size: 18pt;
+	line-height: 4pt;
+}
+
+img {
+	display:inline;
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+	color: black;
+	font-family: 'Martel Sans', sans-serif;
+	font-size: 10pt;
+	background-color: #FF957E
+	border: 1px black solid;
+    padding: 20px;
+}
+p, li {
+	color: black;
+	width: 600px;
+	font-family: 'Martel Sans', sans-serif;
+	font-size: 10pt;	
+	line-height: 15pt;
+}
