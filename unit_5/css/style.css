@@ -48,10 +48,3 @@ footer {
 	border: 1px black solid;
     padding: 20px;
 }
-p, li {
-	color: black;
-	width: 600px;
-	font-family: 'Martel Sans', sans-serif;
-	font-size: 10pt;	
-	line-height: 15pt;
-}

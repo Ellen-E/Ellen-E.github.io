@@ -1,0 +1,63 @@
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+nav {
+	background-color: #E8C66A
+	color: black;
+	font-family: 'Martel Sans', sans-serif;
+	font-weight: bold;
+	font-size: 12pt;
+	float: right;
+    padding: 20px;
+}
+
+h1 {
+	color: black;
+	font-family: 'DM Serif Display', serif;
+	font-weight: bold;
+	font-size: 60pt;
+	line-height: 1pt;
+}
+
+h2 {
+	color: black;
+	font-family: 'Martel Sans', sans-serif;
+	font-size: 18pt;
+	line-height: 6pt;
+}
+
+img {align: left;
+}
+
+#two_column {
+	background-color: white;
+	padding: 20px;
+}
+
+#left {
+	background-color: white;
+	padding: 20px;
+	float: left;
+	width: 20%;
+}
+
+#right {
+	background-color: white;
+	padding: 20px;
+	float: right;
+	width: 72%;
+}
+
+footer {
+	color: black;
+	font-family: 'Martel Sans', sans-serif;
+	font-size: 10pt;
+	background-color: gray
+    padding: 20px;
+}
